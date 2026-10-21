@@ -1,0 +1,61 @@
+<li class="pokemon">
+                <span class="number">#002</span>
+                <span class="name">Ivysaur</span>
+                <div class="detail">
+                    <ol class="types">
+                        <li class="type">Grass</li>
+                        <li class="type">Poison</li>
+                    </ol> 
+                    <img class="imgpokemon" src="IMG/Ivysaur.png" alt="Imagem Ivysaur">                    
+                </div>                             
+            </li>
+
+            <li class="pokemon">
+                <span class="number">#003</span>
+                <span class="name">Venusaur</span>
+                <div class="detail">
+                    <ol class="types">
+                        <li class="type">Grass</li>
+                        <li class="type">Poison</li>
+                    </ol> 
+                    <img class="imgpokemon" src="IMG/Venusaur.png" alt="Imagem Venusaur">                    
+                </div>                             
+            </li>
+            </div>
+
+            <div class="vermelho">
+            <li class="pokemon">
+                <span class="number">#004</span>
+                <span class="name">Charmandar</span>
+                <div class="detail">
+                    <ol class="types">
+                        <li class="type">Fire</li>                        
+                    </ol> 
+                    <img class="imgpokemon" src="IMG/charmander-04.png" alt="Imagem Charmander">                    
+                </div>                             
+            </li>
+
+            <li class="pokemon">
+                <span class="number">#005</span>
+                <span class="name">Charmeleon</span>
+                <div class="detail">
+                    <ol class="types">
+                        <li class="type">Fire</li>                        
+                    </ol> 
+                    <img class="imgpokemon" src="IMG/Charmeleon-Pokemon-Transparent-File.png" alt="Imagem Charmeleon">                    
+                </div>                             
+            </li>
+
+            <li class="pokemon">
+                <span class="number">#006</span>
+                <span class="name">Charizard</span>
+                <div class="detail">
+                    <ol class="types">
+                        <li class="type">Fire</li>
+                        <li class="type">Flying</li>
+                    </ol> 
+                    <img class="imgpokemon" src="IMG/Charizard.png" alt="Imagem Charizard">                    
+                </div>                             
+            </li> 
+            </div>
+        </ol>
